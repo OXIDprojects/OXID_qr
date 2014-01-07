@@ -12,7 +12,7 @@ $aModule = array(
         'en' => 'displays a QR code on every frontend page<br><br>Github-Repository: <a href="https://github.com/marten-seemann/OXID_qr" target="_blank">https://github.com/marten-seemann/OXID_qr</a>'
         ),
     'thumbnail'    => 'picture.jpg',
-    'version'      => '1.0',
+    'version'      => '1.1',
     'author'       => 'Marten Seemann',
     'url'          => 'http://www.oxid-responsive.com',
     'blocks'       => array(
